@@ -1,14 +1,9 @@
-# UPDATED VERSION
+---
+title: "OIR Test Overview"
+description: "Officer Intelligence Rating Test guide and instructions"
+---
 
-shop.ssbcrack.com
-
-# 20 PRACTICE SETS
-
-# OIR TEST
-
-SSBCrack SHOP
-
-**FULLY UPDATED:**
+# Officer Intelligence Rating Test
 
 * 1000 OIR Test Original Questions
 
